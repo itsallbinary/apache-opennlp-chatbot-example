@@ -1,0 +1,5 @@
+greeting	 hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy 
+conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm
+price-inquiry	 How much is the cost ? What's the price ? What's the cost ? How much is price? How much it costs ? price cost money how much. how much?
+product-inquiry	 What is this product ? What's the product ? What does this product do ? What is name of product ? What this product is all about? Can you tell me something about this product ? What are the product features ? Tell me feature of product. 
+conversation-complete	 Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it.
